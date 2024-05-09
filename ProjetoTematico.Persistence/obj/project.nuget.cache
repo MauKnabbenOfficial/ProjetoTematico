@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "p35URjuAh0X9pwuBq9AX61SnzDXUgrw6PfReisuLCJgJrZA1QC9f5YpKjwL1i/z3Gc1h9xS3tP1EyKRNhmV+uw==",
+  "dgSpecHash": "bDudj8P9ynukw1WSKFcHxRjf1WdLyT3N9HhRdm03J87YCxPomX3Md+aRgVcCTEB149yM1OVMuZAKYZSXkGS6Aw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
+  "projectFilePath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\knabb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\knabb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

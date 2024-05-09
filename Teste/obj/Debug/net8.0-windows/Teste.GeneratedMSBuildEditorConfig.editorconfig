@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Teste
-build_property.ProjectDir = C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\Teste\
+build_property.ProjectDir = C:\Workspace\ProjetoTematico\Teste\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

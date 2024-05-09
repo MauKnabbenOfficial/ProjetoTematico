@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ly+PyjLg+J553wSCzsWzBv01LYkpRHOA/XGQr7IM6H7OgRtLsf2MqMyxsuTHW3u6Cv7rS/ytZ3eUnHI0bTSwdw==",
+  "dgSpecHash": "gkePfjwHSOy+19/gEvlSM4xKI7/M4toA54KoQcV9uSCB7xAWYGbilwsRYXVV7bNsNZKBxyIguh8kw0VKANg+Pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj",
+  "projectFilePath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\knabb\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.4\\microsoft.data.sqlite.core.8.0.4.nupkg.sha512",
     "C:\\Users\\knabb\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

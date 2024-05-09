@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C+phVpEE468V711XeYJ1z6ZtsGVnW5Gf/sx+gexHtoR8pnAWjtxh/+bveNBPuNXtoQ1Bkb5lDCLgGKo4lG13qg==",
+  "dgSpecHash": "P11lsyT+iaHh2AzyZFa/WX0qTs+quv9NbNAhNdbBl1p2FQZ1kN5c5kQrz1ofxlrysXGbMiQ2+MQnSjX0p041DA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\Teste\\Teste.csproj",
+  "projectFilePath": "C:\\Workspace\\ProjetoTematico\\Teste\\Teste.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\knabb\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\knabb\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

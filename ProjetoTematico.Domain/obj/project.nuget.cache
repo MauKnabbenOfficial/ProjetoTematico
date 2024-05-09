@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pM0JNQqQ6Kk3JzeX9NIoQJae2lWfSZY+MHSfQtB4gClDUNVW0HYAhZMq6sV70XPbC/BIEVdXCSNWu4+jWUwWcQ==",
+  "dgSpecHash": "Z4PVxZUkzIkI5HBecVYYguw+poUxVKjs77PVhFXDK/9N+gnITod9XAjyk6FPS8elyLzepGa0uLR8iRQSTe5anA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
+  "projectFilePath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

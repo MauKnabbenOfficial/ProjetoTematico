@@ -2596,11 +2596,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
+      "projectUniqueName": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
       "projectName": "ProjetoTematico.Persistence",
-      "projectPath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
+      "projectPath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
       "packagesPath": "C:\\Users\\knabb\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Persistence\\obj\\",
+      "outputPath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -2625,8 +2625,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
-              "projectPath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj"
+            "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
+              "projectPath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj"
             }
           }
         }

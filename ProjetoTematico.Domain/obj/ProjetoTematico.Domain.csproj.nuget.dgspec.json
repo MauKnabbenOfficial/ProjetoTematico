@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {}
+    "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
+    "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
+        "projectUniqueName": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
         "projectName": "ProjetoTematico.Domain",
-        "projectPath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
+        "projectPath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
         "packagesPath": "C:\\Users\\knabb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\knabb\\Documents\\ENG SOFTWARE\\Disciplinas\\Projeto Tematico 1\\Projeto\\ProjetoTematico.Domain\\obj\\",
+        "outputPath": "C:\\Workspace\\ProjetoTematico\\ProjetoTematico.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
