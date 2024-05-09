@@ -23,9 +23,4 @@
     </EmbeddedResource>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Interface\Common\" />
-    <Folder Include="Interface\Views\" />
-  </ItemGroup>
-
 </Project>
