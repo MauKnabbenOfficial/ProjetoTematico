@@ -9,3 +9,15 @@ C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\Pro
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Domain\obj\Debug\net8.0\refint\ProjetoTematico.Domain.dll
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.pdb
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Domain\obj\Debug\net8.0\ref\ProjetoTematico.Domain.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\bin\Debug\net8.0\ProjetoTematico.Domain.deps.json
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\bin\Debug\net8.0\ProjetoTematico.Domain.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\bin\Debug\net8.0\ProjetoTematico.Domain.pdb
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.AssemblyInfoInputs.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.AssemblyInfo.cs
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.csproj.CoreCompileInputs.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.sourcelink.json
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\refint\ProjetoTematico.Domain.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ProjetoTematico.Domain.pdb
+C:\Workspace\ProjetoTematico\ProjetoTematico.Domain\obj\Debug\net8.0\ref\ProjetoTematico.Domain.dll

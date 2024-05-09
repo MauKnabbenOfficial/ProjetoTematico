@@ -15,3 +15,12 @@ C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\Pro
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Application\obj\Debug\net8.0\refint\ProjetoTematico.Application.dll
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.pdb
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Application\obj\Debug\net8.0\ref\ProjetoTematico.Application.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.csproj.AssemblyReference.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.AssemblyInfoInputs.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.AssemblyInfo.cs
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.csproj.CoreCompileInputs.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.sourcelink.json
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\refint\ProjetoTematico.Application.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Application\obj\Debug\net8.0\ProjetoTematico.Application.pdb

@@ -15,3 +15,21 @@ C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\Pro
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.pdb
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.genruntimeconfig.cache
 C:\Users\knabb\Documents\ENG SOFTWARE\Disciplinas\Projeto Tematico 1\Projeto\ProjetoTematico.Persistence\obj\Debug\net8.0\ref\ProjetoTematico.Persistence.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\bin\Debug\net8.0\ProjetoTematico.Persistence.deps.json
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\bin\Debug\net8.0\ProjetoTematico.Persistence.runtimeconfig.json
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\bin\Debug\net8.0\ProjetoTematico.Persistence.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\bin\Debug\net8.0\ProjetoTematico.Persistence.pdb
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\bin\Debug\net8.0\ProjetoTematico.Domain.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\bin\Debug\net8.0\ProjetoTematico.Domain.pdb
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.csproj.AssemblyReference.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.AssemblyInfoInputs.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.AssemblyInfo.cs
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.csproj.CoreCompileInputs.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.sourcelink.json
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoT.9C434EDE.Up2Date
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\refint\ProjetoTematico.Persistence.dll
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.pdb
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ProjetoTematico.Persistence.genruntimeconfig.cache
+C:\Workspace\ProjetoTematico\ProjetoTematico.Persistence\obj\Debug\net8.0\ref\ProjetoTematico.Persistence.dll
