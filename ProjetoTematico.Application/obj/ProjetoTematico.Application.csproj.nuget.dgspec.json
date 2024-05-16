@@ -1,46 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj": {}
+    "C:\\Workspaces\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj": {
+    "C:\\Workspaces\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj",
+        "projectUniqueName": "C:\\Workspaces\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj",
         "projectName": "ProjetoTematico.Application",
-        "projectPath": "C:\\Workspace\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj",
-        "packagesPath": "C:\\Users\\knabb\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\ProjetoTematico.Application\\obj\\",
+        "projectPath": "C:\\Workspaces\\ProjetoTematico.Application\\ProjetoTematico.Application.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspaces\\ProjetoTematico.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\knabb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.numeria.com.br/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
-                "projectPath": "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj"
-              },
-              "C:\\Workspace\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj": {
-                "projectPath": "C:\\Workspace\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj"
+              "C:\\Workspaces\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
+                "projectPath": "C:\\Workspaces\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj"
               }
             }
           }
@@ -79,33 +68,25 @@
         }
       }
     },
-    "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
+    "C:\\Workspaces\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
+        "projectUniqueName": "C:\\Workspaces\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
         "projectName": "ProjetoTematico.Domain",
-        "projectPath": "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
-        "packagesPath": "C:\\Users\\knabb\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\ProjetoTematico.Domain\\obj\\",
+        "projectPath": "C:\\Workspaces\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspaces\\ProjetoTematico.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\knabb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.numeria.com.br/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -127,96 +108,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Workspace\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Workspace\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
-        "projectName": "ProjetoTematico.Persistence",
-        "projectPath": "C:\\Workspace\\ProjetoTematico.Persistence\\ProjetoTematico.Persistence.csproj",
-        "packagesPath": "C:\\Users\\knabb\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\ProjetoTematico.Persistence\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\knabb\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net8.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.numeria.com.br/v3/index.json": {}
-        },
-        "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj": {
-                "projectPath": "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[8.0.4, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.4, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

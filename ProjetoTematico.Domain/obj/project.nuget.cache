@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+glYOq35lIigAO3nDyyoQtQ83KKgFWxNVCZ9QRt8Rv8ZxHQD/muEm4xQhhsGNtZXRZjxK+TA4inQc+tLqrLojg==",
+  "dgSpecHash": "V+zPYaddMAOvY18rJOYIKO/MntCarlJWvATreovb/XAkgZ+tzdyM8EvaLZUvY2WY3ulk6ufVhSMac9Ui9VQSIA==",
   "success": true,
-  "projectFilePath": "C:\\Workspace\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
+  "projectFilePath": "C:\\Workspaces\\ProjetoTematico.Domain\\ProjetoTematico.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
